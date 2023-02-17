@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, Laravel**
+- 🌱 I’m currently learning **React Js, Laravel,**
 
 - 📝 I regularly write articles on [https://education9486.wordpress.com/](https://education9486.wordpress.com/)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFAZnzxC1Y/0mJajEDE7ZMysqyDNinZIw/edit](https://www.canva.com/design/DAFAZnzxC1Y/0mJajEDE7ZMysqyDNinZIw/edit)
 
-- ⚡ Fun fact **I'm cool⚡**
+- ⚡ **I'm cool⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
