@@ -10,11 +10,11 @@
 
 - 📝 I regularly write articles on [https://education9486.wordpress.com/](https://education9486.wordpress.com/)
 
-- 💬 Ask me about **Java,Recat Js**
+- 💬 Ask me about **Java Script,Recat Js**
 
 - 📫 How to reach me **muthuharinisansala2@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFAZnzxC1Y/0mJajEDE7ZMysqyDNinZIw/edit](https://www.canva.com/design/DAFAZnzxC1Y/0mJajEDE7ZMysqyDNinZIw/edit)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFAZnzxC1Y/0mJajEDE7ZMysqyDNinZIw/edit](https://muthuhari.github.io/)
 
 - ⚡ **I'm cool⚡**
 
