@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muthuhari Nisansala</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">&</h3>
+<h3 align="center">UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthuhari&label=Profile%20views&color=0e75b6&style=flat" alt="muthuhari" /> </p>
@@ -14,7 +16,7 @@
 
 - 📫 How to reach me **muthuharinisansala2@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFAZnzxC1Y/0mJajEDE7ZMysqyDNinZIw/edit](https://muthuhari.github.io/)
+- 📄 My portfolio [https://muthuhari.github.io/](https://muthuhari.github.io/)
 
 - ⚡ **I'm cool⚡**
 
