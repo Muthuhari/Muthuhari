@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://education9486.wordpress.com/](https://education9486.wordpress.com/)
 
-- 💬 Ask me about **Java Script,Recat Js**
+- 💬 Ask me about **JavaScript,Recat Js**
 
 - 📫 How to reach me **muthuharinisansala2@gmail.com**
 
