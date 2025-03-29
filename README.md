@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muthuharinisansala2](https://medium.com/@muthuharinisansala2)
 
-- 💬 Ask me about ***Next Js,Recat Js**
+- 💬 Ask me about **Next Js,Recat Js**
 
 - 📫 How to reach me **muthuharinisansala2@gmail.com**
 
